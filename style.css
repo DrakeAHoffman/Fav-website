@@ -1,0 +1,38 @@
+img{
+    min-width: 100px;
+    max-width: 100px;
+}
+i{
+    position: relative;
+    left:400px;
+    }
+p{
+    font-weight: 200;
+    text-align: center;
+}
+ li{
+    text-align: center;
+    text-decoration: none;
+    list-style-type: none;
+    font-style: italic;
+    }
+    h2{
+        text-align: center;
+        text-decoration: none;
+        font-size:medium;
+    }
+
+  div{
+    text-align: center;
+ 
+    
+    
+  }
+  body{
+    margin: auto;
+    padding: 10px;
+    
+  }
+    
+  
+ 
